@@ -1,0 +1,3 @@
+- 👋 Hi, I’m David.
+- 👀 I’m interested in Full-Stack development.
+- 🌱 I’m currently learning Node.js.
